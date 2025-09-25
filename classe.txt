@@ -10,4 +10,4 @@ PC      Nom              Cognoms                    Població                  E
 43      Marc            Meri Navarro                Albaida                   SMX                          Facilitat d'aprenentatge
 45      Neil            Penades Galan               Albaida                   batxiller                    Constant
 46      Arnau           Domenech Blanquer           Rotglà i Corberà          Bachillerat                  Creativitat
-
+12      MJose           Bonete Hernandez            Canlas                    SMX                          Amable
