@@ -3,6 +3,7 @@ PC      Nom              Cognoms                    Població                  E
 00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
 11      Eleazar         Lopez Mahiques              Barxeta                   Tecnic Informatic            Responsable
 13      Carlos          Valls Mulet                 Xàtiva                    SMX                          Treballaor (depen del dia)
+21      Daniel          Jornet Gómez                Xàtiva                    LABORA                       Cabut com ell assoles
 25      Iker            Alarcón Esteve              Rotglà i Corberà          SMX                          Dedicat
 26      Cesar           Oltra Part                  Beniganim                 Grau mitja SMX               Persistent
 31      Alejandro       Garrido Reipricht           Alcudia de Crespins       Estudiant                     Pacient
@@ -10,4 +11,3 @@ PC      Nom              Cognoms                    Població                  E
 43      Marc            Meri Navarro                Albaida                   SMX                          Facilitat d'aprenentatge
 46      Neil            Penades Galan               Albaida                   batxiller                    Constant
 46      Arnau           Domenech Blanquer           Rotglà i Corberà          Bachillerat                  Creativitat
-21      Daniel          Jornet Gómez                Xàtiva                    LABORA                       Cabut com ell assoles
