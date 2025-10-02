@@ -2,6 +2,7 @@ PC      Nom              Cognoms                    Població                  E
 -----------------------------------------------------------------------------------------------------------------------------
 00      Raül            Valls Aranda                Xàtiva                    Enginyer Teleco              Resolutiu
 11      Eleazar         Lopez Mahiques              Barxeta                   Tecnic Informatic            Responsable
+12      MJose           Bonete Hernandez            Canals                    SMX                          Amable
 13      Carlos          Valls Mulet                 Xàtiva                    SMX                          Treballaor (depen del dia)
 21      Daniel          Jornet Gómez                Xàtiva                    LABORA                       Cabut com ell assoles
 25      Iker            Alarcón Esteve              Rotglà i Corberà          SMX                          Dedicat
